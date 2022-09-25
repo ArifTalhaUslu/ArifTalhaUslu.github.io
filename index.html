@@ -1,7 +1,6 @@
 <!doctype html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="utf-8">
   <title>Arif Talha USLU</title>
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -120,7 +119,8 @@ body{
 </head>
 <body>
   
-  
+  <!--NAV-->
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-black">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -130,32 +130,34 @@ body{
       <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
   
         <li class="nav-item active">
-          <a class="btn btn-black nav-link">ARIF USLU<span class="sr-only">(current)</span></a>
+          <a class="btn btn-black nav-link" href="#">ARIF USLU<span class="sr-only">(current)</span></a>
         </li>
   
         <li class="nav-item">
-          <a class="btn btn-black nav-link">WHO AM I</a>
+          <a class="btn btn-black nav-link" href="#whoami">WHO AM I</a>
         </li>
   
         <li class="nav-item">
-          <a class="btn btn-black nav-link">SKILLS</a>
+          <a class="btn btn-black nav-link" href="#skills">SKILLS</a>
         </li>
   
         <li class="nav-item">
-          <a class="btn btn-black nav-link">EXPERIENCES</a>
+          <a class="btn btn-black nav-link" href="#experiences">EXPERIENCES</a>
         </li>
   
         <li class="nav-item">
-          <a class="btn btn-black nav-link">EDUCATION</a>
+          <a class="btn btn-black nav-link" href="#education">EDUCATION</a>
         </li>
   
         <li class="nav-item">
-          <a class="btn btn-black nav-link">CONTACT</a>
+          <a class="btn btn-black nav-link" href="#contact">CONTACT</a>
         </li>
       </ul>
     </div>
   </nav>
   
+  <!--WHOAMI-->
+  <div id="whoami"></div>
   <div class="container border-bottom">
     <img 
     src="https://avatars.githubusercontent.com/u/76816948?v=4" alt="" style="border-radius: 25px; max-width: 90%;" />
@@ -164,7 +166,8 @@ body{
     <h4 class="hafifsaydam">I'm living in Ankara/Turkey. I am a software developer. I focus more on microsoft technologies. Apart from these, I know Java, javascript, css, html and python (beginner). I love solving problems in all areas of my life. I love learning and using ASP.NET CORE Web technologies. I graduated from Ankara Gazi University in 2022 as the first in the department.</h4>
   </div>
 
-
+<!--SKILLS-->
+<div id="skills"></div>
   <div class="container pt-3 border-bottom">
     <h1 class="hafifsaydam">SKILLS</h1>
   
@@ -323,8 +326,8 @@ body{
       </div>
   </div>
   
-
-  
+  <!--EXPERIENCES-->
+  <div id="experiences"></div>
 <div class="container mt-4">
 
     <div class="text-center">
@@ -346,7 +349,7 @@ body{
         <div class="col-lg-8 col-sm-12">
           <h3 class="">HAVELSAN - LONG TERM INTERN</h3>
           <h5 class="hafifsaydam">OCTOBER 2021 — JUNE 2022  - TOTAL : 9 MONTH</h5>
-          <p>Long-term Internship at HAVELSAN Ankara central campus. 
+          <p class="hafifsaydam">Long-term Internship at HAVELSAN Ankara central campus. 
             According to the protocol signed with Gazi University, the top 10 students who got 
             the best grades of the department were entitled to internship here.</p>
         </div>
@@ -362,7 +365,7 @@ body{
         <div class="col-lg-8 col-sm-12">
           <h3 class="">ELD - SUMMER INTERN</h3>
           <h5 class="hafifsaydam">JUNE 2021 — JULY 2021  - TOTAL : 1 MONTH</h5>
-          <p>Developing a web project that can work dynamically with database manipulations, 
+          <p class="hafifsaydam">Developing a web project that can work dynamically with database manipulations, 
             using Entity Framework, ASP.NET MVC C# and JavaScript.</p>
         </div>
   
@@ -377,8 +380,8 @@ body{
   </div>
 
 
-
-
+<!--EDUCATION-->
+<div id="education"></div>
   <div class="container border-top p-3">
     <h1><span class="border-bottom"> MY EDUCATION SUMMARY</span></h1>
     <br>
@@ -388,10 +391,10 @@ body{
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQV4sgngM8fiItdQF7Igr92THwYW82eloZlw&usqp=CAU" alt="" style="border-radius: 25px;">
         </div>
         <div class="col-lg-8">
-          <h2>UNIVERSITY</h2>
+          <h2 class="hafifsaydam">UNIVERSITY</h2>
           <h4 class="">GAZI UNIVERSITY - COMPUTER PROGRAMING</h4>
           <h5 class="hafifsaydam">starts AUGUST 2020 - ends JUNE 2022</h5>
-          <p>
+          <p class="hafifsaydam">
             Graduation Degree: 3.84
             Graduated as the First of the Department
           </p>
@@ -403,10 +406,10 @@ body{
       <div class="row">
   
         <div class="col-lg-8">
-          <h2>HIGH SCHOOL</h2>
+          <h2 class="hafifsaydam">HIGH SCHOOL</h2>
           <h4 class="">UMITKOY ANADOLU</h4>
           <h5 class="hafifsaydam">starts AUGUST 2016 - ends OCTOBER 2019</h5>
-          <p>
+          <p class="hafifsaydam">
             In order to study in this high school, you must get at least 460 points from the 
             secondary school to high school transition exam called TEOG.
           </p>
@@ -419,12 +422,15 @@ body{
   
   </div>
   
+<!--CONTACT-->
+<div id="contact"></div>
   <div class="container">
     <h1>CONTACT ME</h1>
   
     <h3 class="hafifsaydam">ariftalhauslu@gmail.com</h3>
   </div>
 
+<!--FOOTER-->
   <div class="footer-dark" style="background-color: black !important">
 
     <footer class="bg-black p-5">
