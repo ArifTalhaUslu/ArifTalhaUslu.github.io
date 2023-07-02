@@ -1,12 +1,42 @@
 [
   {
-    "contentHeader":"About",
-    "contentText":"Hi i am Arif",
-    "imgSrc":"https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg"
+    "sectionType": "Sctn",
+    "contentHeader": "About",
+    "contentText": "Hi i am Arif",
+    "imgSrc": "https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg",
+    "list": [],
+    "prgrsList": []
   },
   {
-    "contentHeader":"Education",
-    "contentText":"Schools lorem vs",
-    "imgSrc":"https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg"
+    "sectionType": "SctnLst",
+    "contentHeader": "Education",
+    "contentText": "",
+    "imgSrc": "https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg",
+    "list": [
+      {
+        "header": "Gazi",
+        "dateText":"01.01.2020 - 01.01.2023",
+        "text": "Üniversite olarak gittiğim yer",
+        "img": "https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg"
+      },
+      {
+        "header": "Ümitköy Anadolu Lisesi",
+        "dateText":"01.01.2020 - 01.01.2023",
+        "text": "Lise olarak gittiğim yer",
+        "img": "https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg"
+      }
+    ],
+    "prgrsList": []
+  },
+  {
+    "sectionType": "SctnPrgrs",
+    "contentHeader": "Skills",
+    "contentText": "",
+    "imgSrc": "https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg",
+    "list": [],
+    "prgrsList": [
+      { "prgrsName": "C#", "prgrsVal": 75 },
+      { "prgrsName": "React", "prgrsVal": 25 }
+    ]
   }
 ]
