@@ -2,9 +2,36 @@
   {
     "sectionType": "Sctn",
     "contentHeader": "About",
-    "contentText": "Hi i am Arif",
-    "imgSrc": "https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg",
+    "contentText": "Hello, I am Arif Talha Uslu. I am a software developer. I live in Ankara, Turkey. I was born in 2001. I have been working as a software engineer at Forte Information Communication Technologies and Defense Industry Inc. since November 2022. I am familiar with various technologies such as ASP.NET and ASP.NET Core (MVC, Web API), ADO.NET, React, SQL (PostgreSQL, MSSQL, Oracle Toad), HTML/CSS/JS. I pay attention to details and maintain my structured work style. Additionally, I have a strong interest in SOLID principles and Design Patterns, which provide my motivation to build robust software architectures. You can reach me at ariftalhauslu@gmail.com",
+    "imgSrc": "https://avatars.githubusercontent.com/u/76816948?v=4",
     "list": [],
+    "prgrsList": []
+  },
+  {
+    "sectionType": "SctnLst",
+    "contentHeader": "Experiences",
+    "contentText": "",
+    "imgSrc": "https://avatars.githubusercontent.com/u/76816948?v=4",
+    "list": [
+      {
+        "header": "Forte Bilgi İletişim Teknolojileri ve Savunma Sanayi A.Ş. - Software Engineer",
+        "dateText": "NOVEMBER 2022 — ...NOW...",
+        "text": "Developing software for Turkey's defense industry..",
+        "img": "https://media.licdn.com/dms/image/C4D0BAQHtt7-JwAiUJw/company-logo_100_100/0/1650375300262?e=1696464000&v=beta&t=JK2T-b_n0Uxl5VRxNRYWhybFJgKlEvp1ED0114KrYHo"
+      },
+      {
+        "header": "HAVELSAN - Long Term Intern",
+        "dateText": "OCTOBER 2021 — JUNE 2022",
+        "text": "According to the protocol signed with Gazi University, the top 10 students who got the best grades of the department were entitled to internship here.",
+        "img": "https://media.licdn.com/dms/image/C4D0BAQGxqcQODeHs6w/company-logo_100_100/0/1678436525366?e=1696464000&v=beta&t=erSGuLxHMMR-JAnjnPUdrrfIyTmC13OOFyuXo67K-eI"
+      },
+      {
+        "header": "ELD Bilişim Sanayi Ticaret A.Ş. - Intern",
+        "dateText": "JUNE 2021 — JULY 2021",
+        "text": "Developing a web project that can work dynamically with database manipulations, using Entity Framework, ASP.NET MVC C# and JavaScript.",
+        "img": "https://media.licdn.com/dms/image/D4D0BAQHxrHUkuKhYlg/company-logo_100_100/0/1686318061605?e=1696464000&v=beta&t=y_biZOiLTt3r1EARKHpwk0OsLk8EgmjcdoydQ8Aq__0"
+      }
+    ],
     "prgrsList": []
   },
   {
@@ -14,16 +41,16 @@
     "imgSrc": "https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg",
     "list": [
       {
-        "header": "Gazi",
-        "dateText":"01.01.2020 - 01.01.2023",
-        "text": "Üniversite olarak gittiğim yer",
-        "img": "https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg"
+        "header": "University, Gazi University Computer Programming, Ankara",
+        "dateText": "AUGUST 2020 — JUNE 2022",
+        "text": "Graduation Degree: 3.84 / 4 \n\nGraduated as the First of the Department",
+        "img": "https://webupload.gazi.edu.tr/upload/1/2021/8/18/b1301b1d-72c8-444e-a5d7-f8f53279b462-universitemiz.png"
       },
       {
-        "header": "Ümitköy Anadolu Lisesi",
-        "dateText":"01.01.2020 - 01.01.2023",
-        "text": "Lise olarak gittiğim yer",
-        "img": "https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg"
+        "header": "High School, Ümitköy Anadolu, Ankara",
+        "dateText": "AUGUST 2016 — OCTOBER 2019",
+        "text": "In order to study in this high school, you must get at least 460 points from the secondary school to high school transition exam called TEOG. ",
+        "img": "https://umitkoyanadolulisesi.meb.k12.tr/meb_iys_dosyalar/06/25/964414/resimler/2017_09/k_15131923_20170810_110254.jpg"
       }
     ],
     "prgrsList": []
@@ -32,13 +59,23 @@
     "sectionType": "SctnPrgrs",
     "contentHeader": "Skills",
     "contentText": "",
-    "imgSrc": "https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg",
+    "imgSrc": "",
     "list": [],
     "prgrsList": [
-      { "prgrsName": "C#", "prgrsVal": 75 },
-      { "prgrsName": "React", "prgrsVal": 25 },
-      { "prgrsName": "ASP.NET Core MVC", "prgrsVal": 25 },
-      { "prgrsName": "React", "prgrsVal": 25 }
+      { "prgrsName": "C#", "prgrsVal": 90 },
+      { "prgrsName": "ASP.NET Core MVC", "prgrsVal": 85 },
+      { "prgrsName": "ASP.NET Core Web API", "prgrsVal": 65 },
+      { "prgrsName": "ASP.NET MVC", "prgrsVal": 85 },
+      { "prgrsName": "ADO.NET", "prgrsVal": 60 },
+      { "prgrsName": "React Redux", "prgrsVal": 40 },
+      { "prgrsName": "JQuery", "prgrsVal": 55 },
+      { "prgrsName": "Bootstrap", "prgrsVal": 75 },
+      { "prgrsName": "Html CSS JS", "prgrsVal": 75 },
+      { "prgrsName": "Java", "prgrsVal": 30 },
+      { "prgrsName": "SQL", "prgrsVal": 65 },
+      { "prgrsName": "MsSQL", "prgrsVal": 75 },
+      { "prgrsName": "Oracle Toad", "prgrsVal": 50 },
+      { "prgrsName": "PostgreSQL", "prgrsVal": 40 }
     ]
   }
 ]
