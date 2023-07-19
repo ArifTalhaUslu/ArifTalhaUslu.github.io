@@ -77,5 +77,16 @@
       { "prgrsName": "Oracle Toad", "prgrsVal": 50 },
       { "prgrsName": "PostgreSQL", "prgrsVal": 40 }
     ]
+  },
+  {
+    "sectionType": "SctnPrgrs",
+    "contentHeader": "Test",
+    "contentText": "",
+    "imgSrc": "",
+    "list": [],
+    "prgrsList": [
+      { "prgrsName": "Test Ability", "prgrsVal": 56 },
+      { "prgrsName": "Asdfg", "prgrsVal": 69 }
+    ]
   }
 ]
