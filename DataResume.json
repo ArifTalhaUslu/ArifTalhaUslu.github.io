@@ -38,8 +38,14 @@
     "sectionType": "SctnLst",
     "contentHeader": "Education",
     "contentText": "",
-    "imgSrc": "https://www.unibilgi.net/wp-content/uploads/2014/11/gazili-olmak-ayricaliktir.jpg",
+    "imgSrc": "",
     "list": [
+      {
+        "header": "Anadolu University Management Information Systems, Ankara",
+        "dateText": "OCTOBER 2023 - ...",
+        "text": "The university I studied at while working.(Bachelor's Degree)",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS8kMtHkGgXcNoZuPA9Ct_VVQNkBUHnH6mKw&usqp=CAU"
+      },
       {
         "header": "University, Gazi University Computer Programming, Ankara",
         "dateText": "AUGUST 2020 — JUNE 2022",
@@ -67,6 +73,7 @@
       { "prgrsName": "ASP.NET Core Web API", "prgrsVal": 65 },
       { "prgrsName": "ASP.NET MVC", "prgrsVal": 85 },
       { "prgrsName": "ADO.NET", "prgrsVal": 60 },
+      { "prgrsName": "SCRUM", "prgrsVal": 75 },
       { "prgrsName": "React Redux", "prgrsVal": 40 },
       { "prgrsName": "JQuery", "prgrsVal": 55 },
       { "prgrsName": "Bootstrap", "prgrsVal": 75 },
