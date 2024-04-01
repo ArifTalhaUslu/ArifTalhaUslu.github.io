@@ -69,6 +69,7 @@
     "list": [],
     "prgrsList": [
       { "prgrsName": "C#", "prgrsVal": 90 },
+      { "prgrsName": "React", "prgrsVal": 75 },
       { "prgrsName": "ASP.NET Core MVC", "prgrsVal": 85 },
       { "prgrsName": "ASP.NET Core Web API", "prgrsVal": 65 },
       { "prgrsName": "ASP.NET MVC", "prgrsVal": 85 },
